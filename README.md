@@ -1,2 +1,1 @@
-# react_carousel
-create-react-app
+# How to make Carousel in React
