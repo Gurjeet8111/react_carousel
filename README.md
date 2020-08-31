@@ -13,7 +13,8 @@ This will open the all the public and source files of our new application in tex
 # Adding Images to Public folder
 Here we create the carousel of images. So we need to add images to our Public folder. Open the public folder in react_corousel application and save some images in jpg format that you want to add in your carousel.
 # Components
-In the src folder of our create-react-app, create a new folder with name "components" and in this folder create a new file carousel.component.js.
+In the src folder of our create-react-app, create a new folder with name "components" and in this folder create a new file 
+## carousel.component.js.
 This file contains the jsx code of our carousel.
 # Run the Application
 To run the application use the following command:
